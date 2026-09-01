@@ -1,0 +1,501 @@
+order_id,order_date,customer_id,sales_channel,payment_method
+1001,2025-03-06,17,Marketplace,Net Banking
+1002,2025-10-09,22,Store,Net Banking
+1003,2025-04-19,70,Marketplace,Card
+1004,2025-06-09,52,Marketplace,Cash
+1005,2025-08-13,67,Store,UPI
+1006,2025-05-07,29,Online,Cash
+1007,2025-01-11,76,Marketplace,Card
+1008,2025-10-29,29,Online,UPI
+1009,2025-12-29,81,Online,Card
+1010,2025-02-04,5,Store,UPI
+1011,2025-09-21,31,Store,Net Banking
+1012,2025-04-20,70,Online,Net Banking
+1013,2025-05-05,61,Store,Card
+1014,2025-02-18,13,Marketplace,Net Banking
+1015,2025-07-01,55,Store,Net Banking
+1016,2025-01-28,87,Marketplace,UPI
+1017,2025-02-01,52,Marketplace,Cash
+1018,2025-02-25,32,Online,Card
+1019,2025-10-02,58,Online,Net Banking
+1020,2025-04-04,36,Store,Card
+1021,2025-02-08,57,Marketplace,UPI
+1022,2025-01-26,84,Marketplace,UPI
+1023,2025-02-17,97,Online,Card
+1024,2025-07-28,63,Store,Card
+1025,2025-07-25,8,Online,Net Banking
+1026,2025-01-02,50,Store,Net Banking
+1027,2025-05-27,55,Marketplace,Net Banking
+1028,2025-03-21,25,Store,Card
+1029,2025-01-30,75,Marketplace,UPI
+1030,2025-06-10,8,Online,Net Banking
+1031,2025-09-15,68,Online,UPI
+1032,2025-09-18,11,Online,UPI
+1033,2025-11-01,9,Marketplace,Card
+1034,2025-07-26,16,Marketplace,Card
+1035,2025-10-24,77,Online,UPI
+1036,2025-08-03,85,Marketplace,Cash
+1037,2025-05-14,27,Marketplace,Cash
+1038,2025-05-03,34,Store,Card
+1039,2025-12-10,83,Store,Net Banking
+1040,2025-06-11,97,Online,UPI
+1041,2025-08-23,80,Marketplace,UPI
+1042,2025-02-07,69,Online,Cash
+1043,2025-03-09,45,Online,Card
+1044,2025-07-09,37,Online,Net Banking
+1045,2025-10-06,91,Store,UPI
+1046,2025-12-08,71,Store,UPI
+1047,2025-03-10,34,Online,UPI
+1048,2025-10-11,20,Store,Cash
+1049,2025-11-06,27,Marketplace,Cash
+1050,2025-04-15,88,Marketplace,Cash
+1051,2025-09-16,63,Store,UPI
+1052,2025-02-17,82,Store,Cash
+1053,2025-01-23,1,Store,Card
+1054,2025-11-23,34,Online,Net Banking
+1055,2025-10-10,91,Store,UPI
+1056,2025-02-27,10,Marketplace,Card
+1057,2025-10-07,5,Store,Card
+1058,2025-08-09,17,Online,Cash
+1059,2025-07-06,6,Store,Card
+1060,2025-12-16,32,Marketplace,UPI
+1061,2025-07-01,100,Marketplace,Net Banking
+1062,2025-11-14,96,Online,Card
+1063,2025-03-25,23,Store,UPI
+1064,2025-04-02,95,Store,Net Banking
+1065,2025-12-09,95,Online,Cash
+1066,2025-03-23,90,Online,Net Banking
+1067,2025-01-20,61,Online,Card
+1068,2025-08-24,45,Store,Card
+1069,2025-04-25,4,Marketplace,Card
+1070,2025-07-24,43,Store,UPI
+1071,2025-05-23,45,Marketplace,Net Banking
+1072,2025-12-14,69,Store,UPI
+1073,2025-03-01,34,Online,Cash
+1074,2025-01-20,14,Marketplace,Net Banking
+1075,2025-06-26,94,Store,Net Banking
+1076,2025-11-07,66,Online,Net Banking
+1077,2025-10-23,25,Store,UPI
+1078,2025-12-29,56,Online,Card
+1079,2025-07-06,56,Online,Cash
+1080,2025-11-16,41,Marketplace,UPI
+1081,2025-06-03,65,Store,Net Banking
+1082,2025-06-17,52,Marketplace,Cash
+1083,2025-10-11,17,Online,Net Banking
+1084,2025-12-07,49,Marketplace,Card
+1085,2025-11-12,73,Store,Net Banking
+1086,2025-10-08,1,Store,Cash
+1087,2025-04-18,56,Marketplace,Cash
+1088,2025-08-27,57,Store,Card
+1089,2025-09-19,61,Marketplace,Card
+1090,2025-12-04,11,Store,Cash
+1091,2025-02-17,97,Online,Cash
+1092,2025-04-26,26,Online,UPI
+1093,2025-01-24,32,Store,UPI
+1094,2025-08-22,54,Marketplace,Card
+1095,2025-12-23,50,Store,Net Banking
+1096,2025-05-05,19,Marketplace,UPI
+1097,2025-02-24,100,Store,Card
+1098,2025-04-01,90,Marketplace,Net Banking
+1099,2025-01-26,72,Online,UPI
+1100,2025-08-22,18,Store,Cash
+1101,2025-08-15,79,Marketplace,Net Banking
+1102,2025-10-08,58,Online,Net Banking
+1103,2025-08-19,34,Online,Cash
+1104,2025-09-24,63,Marketplace,Card
+1105,2025-05-21,57,Online,Cash
+1106,2025-05-01,35,Store,Cash
+1107,2025-10-04,11,Online,Card
+1108,2025-04-29,50,Marketplace,Card
+1109,2025-12-28,28,Online,Net Banking
+1110,2025-07-28,43,Marketplace,Net Banking
+1111,2025-08-01,8,Online,Net Banking
+1112,2025-07-19,99,Marketplace,UPI
+1113,2025-10-22,49,Store,UPI
+1114,2025-06-30,39,Store,Net Banking
+1115,2025-10-03,96,Marketplace,Card
+1116,2025-09-07,29,Store,Net Banking
+1117,2025-09-06,4,Store,Cash
+1118,2025-12-09,87,Store,Card
+1119,2025-08-28,17,Marketplace,UPI
+1120,2025-07-21,76,Marketplace,UPI
+1121,2025-02-12,83,Store,Card
+1122,2025-08-25,24,Online,Cash
+1123,2025-07-14,42,Online,Net Banking
+1124,2025-06-17,44,Store,Cash
+1125,2025-08-04,33,Online,Net Banking
+1126,2025-01-10,96,Marketplace,UPI
+1127,2025-06-29,29,Marketplace,UPI
+1128,2025-11-30,6,Online,Card
+1129,2025-04-13,3,Marketplace,Card
+1130,2025-05-03,17,Store,UPI
+1131,2025-10-16,28,Store,Cash
+1132,2025-07-08,22,Marketplace,UPI
+1133,2025-03-25,40,Online,UPI
+1134,2025-06-09,74,Marketplace,Net Banking
+1135,2025-07-23,92,Online,UPI
+1136,2025-10-31,89,Marketplace,Card
+1137,2025-02-22,90,Store,UPI
+1138,2025-10-17,6,Store,Net Banking
+1139,2025-12-05,48,Online,Cash
+1140,2025-01-07,54,Store,UPI
+1141,2025-08-10,47,Marketplace,Net Banking
+1142,2025-12-29,20,Store,Card
+1143,2025-09-25,84,Store,Net Banking
+1144,2025-08-27,56,Marketplace,Cash
+1145,2025-06-15,32,Online,Cash
+1146,2025-08-19,32,Store,Net Banking
+1147,2025-06-22,4,Store,Cash
+1148,2025-04-04,63,Online,Cash
+1149,2025-05-13,44,Store,Cash
+1150,2025-10-12,2,Marketplace,Card
+1151,2025-02-13,31,Marketplace,Net Banking
+1152,2025-09-08,72,Online,Net Banking
+1153,2025-11-27,92,Store,Net Banking
+1154,2025-01-09,12,Store,Card
+1155,2025-07-27,89,Online,Cash
+1156,2025-12-06,75,Store,Net Banking
+1157,2025-10-11,68,Store,Net Banking
+1158,2025-10-09,43,Store,Net Banking
+1159,2025-05-19,40,Store,Card
+1160,2025-03-03,93,Online,Cash
+1161,2025-03-03,96,Marketplace,Card
+1162,2025-04-09,28,Marketplace,Net Banking
+1163,2025-05-22,93,Marketplace,Cash
+1164,2025-02-21,25,Store,Card
+1165,2025-07-04,23,Store,UPI
+1166,2025-12-29,69,Online,Cash
+1167,2025-01-24,7,Marketplace,Cash
+1168,2025-12-24,17,Marketplace,Net Banking
+1169,2025-02-22,2,Marketplace,Cash
+1170,2025-08-29,62,Store,Cash
+1171,2025-04-05,7,Store,Net Banking
+1172,2025-02-28,9,Store,Net Banking
+1173,2025-02-07,74,Marketplace,UPI
+1174,2025-03-19,20,Marketplace,Cash
+1175,2025-02-13,32,Online,Net Banking
+1176,2025-11-07,77,Marketplace,Card
+1177,2025-09-25,49,Store,Net Banking
+1178,2025-06-02,76,Store,Cash
+1179,2025-10-19,80,Online,UPI
+1180,2025-04-17,81,Online,Cash
+1181,2025-12-05,11,Online,Card
+1182,2025-03-30,71,Online,Card
+1183,2025-01-02,53,Store,Net Banking
+1184,2025-05-30,5,Online,Cash
+1185,2025-12-28,37,Marketplace,Net Banking
+1186,2025-02-06,88,Online,Cash
+1187,2025-11-17,76,Marketplace,Card
+1188,2025-08-06,15,Marketplace,Card
+1189,2025-11-28,20,Store,Card
+1190,2025-02-06,8,Online,Cash
+1191,2025-11-01,96,Marketplace,Cash
+1192,2025-08-13,16,Store,Cash
+1193,2025-12-25,52,Store,Net Banking
+1194,2025-08-13,11,Marketplace,UPI
+1195,2025-08-10,95,Store,Cash
+1196,2025-01-14,12,Online,UPI
+1197,2025-12-11,35,Marketplace,UPI
+1198,2025-03-31,61,Marketplace,Net Banking
+1199,2025-05-23,24,Marketplace,Net Banking
+1200,2025-11-22,63,Online,Net Banking
+1201,2025-06-28,53,Store,Cash
+1202,2025-12-10,14,Online,Cash
+1203,2025-07-30,89,Store,Cash
+1204,2025-12-06,52,Marketplace,UPI
+1205,2025-08-21,12,Store,Cash
+1206,2025-06-15,15,Store,UPI
+1207,2025-12-03,70,Store,Net Banking
+1208,2025-01-28,25,Marketplace,Cash
+1209,2025-11-15,97,Store,Net Banking
+1210,2025-01-27,27,Store,Card
+1211,2025-05-28,57,Marketplace,Net Banking
+1212,2025-03-04,4,Marketplace,Card
+1213,2025-12-30,21,Store,UPI
+1214,2025-10-10,53,Online,Card
+1215,2025-02-28,60,Online,Card
+1216,2025-09-13,92,Store,Cash
+1217,2025-08-01,62,Store,Card
+1218,2025-08-22,71,Online,Net Banking
+1219,2025-04-08,77,Marketplace,Card
+1220,2025-02-05,36,Store,Cash
+1221,2025-09-17,35,Online,Cash
+1222,2025-06-02,76,Marketplace,Net Banking
+1223,2025-03-18,58,Marketplace,Net Banking
+1224,2025-06-26,43,Marketplace,Net Banking
+1225,2025-08-22,42,Online,Card
+1226,2025-10-20,50,Online,Net Banking
+1227,2025-01-23,41,Marketplace,Net Banking
+1228,2025-12-28,49,Store,Card
+1229,2025-09-11,5,Online,Cash
+1230,2025-02-21,57,Online,Net Banking
+1231,2025-01-08,93,Online,Net Banking
+1232,2025-12-02,20,Online,Net Banking
+1233,2025-05-16,44,Marketplace,Net Banking
+1234,2025-11-29,11,Store,Net Banking
+1235,2025-06-12,81,Marketplace,Net Banking
+1236,2025-10-05,5,Marketplace,UPI
+1237,2025-05-01,81,Marketplace,Cash
+1238,2025-04-27,96,Online,Net Banking
+1239,2025-02-20,98,Marketplace,UPI
+1240,2025-08-16,22,Marketplace,Cash
+1241,2025-01-15,6,Store,UPI
+1242,2025-05-31,46,Store,Net Banking
+1243,2025-03-16,32,Marketplace,Net Banking
+1244,2025-10-17,88,Online,Card
+1245,2025-03-31,11,Marketplace,Net Banking
+1246,2025-11-14,88,Online,Net Banking
+1247,2025-10-26,19,Online,Net Banking
+1248,2025-11-23,33,Store,Cash
+1249,2025-12-08,2,Store,Cash
+1250,2025-12-13,70,Online,UPI
+1251,2025-08-15,45,Marketplace,Cash
+1252,2025-11-24,55,Marketplace,Cash
+1253,2025-08-22,39,Online,Net Banking
+1254,2025-09-05,14,Online,Net Banking
+1255,2025-10-20,46,Marketplace,Cash
+1256,2025-12-25,38,Online,Net Banking
+1257,2025-05-21,2,Marketplace,UPI
+1258,2025-11-07,96,Store,Cash
+1259,2025-04-28,78,Store,Card
+1260,2025-11-22,25,Marketplace,Cash
+1261,2025-12-14,97,Marketplace,Card
+1262,2025-11-18,13,Marketplace,UPI
+1263,2025-06-08,57,Online,Cash
+1264,2025-03-09,12,Store,Cash
+1265,2025-08-01,23,Online,Card
+1266,2025-10-04,47,Marketplace,Cash
+1267,2025-03-26,33,Store,Cash
+1268,2025-06-23,15,Store,UPI
+1269,2025-03-14,97,Online,Net Banking
+1270,2025-10-13,47,Online,Net Banking
+1271,2025-01-08,34,Marketplace,UPI
+1272,2025-08-21,48,Marketplace,Cash
+1273,2025-10-27,49,Marketplace,Cash
+1274,2025-02-25,87,Online,Net Banking
+1275,2025-01-13,80,Marketplace,Cash
+1276,2025-11-09,29,Marketplace,UPI
+1277,2025-11-22,60,Marketplace,Cash
+1278,2025-11-29,53,Online,Card
+1279,2025-01-24,5,Store,Net Banking
+1280,2025-03-01,13,Online,Card
+1281,2025-07-18,59,Store,Net Banking
+1282,2025-10-28,96,Marketplace,Card
+1283,2025-08-01,84,Online,Net Banking
+1284,2025-11-12,53,Store,UPI
+1285,2025-12-20,48,Online,Net Banking
+1286,2025-08-16,31,Store,UPI
+1287,2025-12-18,48,Marketplace,Cash
+1288,2025-02-01,51,Store,Card
+1289,2025-03-04,59,Online,Card
+1290,2025-11-25,82,Marketplace,UPI
+1291,2025-01-26,43,Online,Card
+1292,2025-10-17,27,Online,Card
+1293,2025-10-28,28,Online,Cash
+1294,2025-03-17,77,Online,Cash
+1295,2025-03-16,17,Marketplace,Cash
+1296,2025-03-31,15,Marketplace,UPI
+1297,2025-03-09,2,Store,Card
+1298,2025-10-29,42,Online,Card
+1299,2025-05-16,7,Online,Net Banking
+1300,2025-09-27,15,Marketplace,UPI
+1301,2025-09-01,58,Store,UPI
+1302,2025-08-20,65,Online,UPI
+1303,2025-12-04,67,Store,Net Banking
+1304,2025-11-26,4,Online,Net Banking
+1305,2025-07-25,55,Marketplace,UPI
+1306,2025-09-09,92,Store,UPI
+1307,2025-02-11,42,Marketplace,Card
+1308,2025-02-03,17,Store,Cash
+1309,2025-07-15,77,Marketplace,Cash
+1310,2025-08-21,65,Marketplace,Net Banking
+1311,2025-02-20,90,Online,Card
+1312,2025-08-09,58,Online,Net Banking
+1313,2025-06-23,59,Store,Net Banking
+1314,2025-02-18,41,Store,Cash
+1315,2025-12-07,33,Store,Card
+1316,2025-12-18,61,Online,UPI
+1317,2025-02-13,12,Store,UPI
+1318,2025-07-10,17,Marketplace,UPI
+1319,2025-10-28,72,Marketplace,Cash
+1320,2025-12-10,16,Store,Cash
+1321,2025-12-07,97,Store,UPI
+1322,2025-05-28,77,Store,Cash
+1323,2025-02-23,74,Marketplace,Card
+1324,2025-03-21,85,Store,Card
+1325,2025-02-25,45,Marketplace,Cash
+1326,2025-02-28,98,Store,Card
+1327,2025-08-08,72,Marketplace,UPI
+1328,2025-11-08,85,Marketplace,Cash
+1329,2025-01-15,24,Store,Cash
+1330,2025-06-23,45,Online,Card
+1331,2025-03-15,73,Marketplace,Net Banking
+1332,2025-02-05,19,Marketplace,UPI
+1333,2025-02-16,96,Marketplace,Card
+1334,2025-07-12,54,Store,Cash
+1335,2025-03-22,48,Store,Cash
+1336,2025-10-18,77,Online,UPI
+1337,2025-03-21,21,Marketplace,UPI
+1338,2025-12-12,11,Store,Net Banking
+1339,2025-12-05,55,Store,Net Banking
+1340,2025-08-01,35,Online,UPI
+1341,2025-06-26,56,Online,Cash
+1342,2025-12-14,87,Marketplace,Net Banking
+1343,2025-09-27,86,Store,UPI
+1344,2025-04-23,51,Marketplace,UPI
+1345,2025-01-04,27,Store,Card
+1346,2025-03-12,98,Store,Cash
+1347,2025-06-17,16,Online,Net Banking
+1348,2025-08-09,23,Online,Net Banking
+1349,2025-09-30,91,Online,Cash
+1350,2025-02-06,51,Marketplace,UPI
+1351,2025-08-12,3,Store,UPI
+1352,2025-06-10,74,Store,Net Banking
+1353,2025-12-30,82,Store,Cash
+1354,2025-02-28,52,Online,Cash
+1355,2025-03-29,80,Store,Cash
+1356,2025-02-15,56,Online,Card
+1357,2025-08-12,76,Store,UPI
+1358,2025-07-22,40,Marketplace,Cash
+1359,2025-04-24,43,Online,UPI
+1360,2025-09-19,82,Online,Card
+1361,2025-06-28,45,Marketplace,Card
+1362,2025-05-01,14,Online,Cash
+1363,2025-04-12,23,Marketplace,Card
+1364,2025-12-02,10,Online,Net Banking
+1365,2025-08-26,97,Marketplace,Net Banking
+1366,2025-12-15,73,Marketplace,Cash
+1367,2025-11-18,41,Online,Net Banking
+1368,2025-02-04,61,Store,Cash
+1369,2025-05-21,76,Online,Cash
+1370,2025-09-17,10,Store,Net Banking
+1371,2025-08-20,5,Online,Cash
+1372,2025-05-27,10,Marketplace,UPI
+1373,2025-11-11,77,Marketplace,Net Banking
+1374,2025-08-25,75,Marketplace,UPI
+1375,2025-08-19,74,Marketplace,Card
+1376,2025-06-14,78,Store,Card
+1377,2025-02-01,58,Online,Cash
+1378,2025-02-13,65,Marketplace,Card
+1379,2025-01-21,32,Marketplace,Net Banking
+1380,2025-08-13,68,Marketplace,Card
+1381,2025-07-06,48,Store,Net Banking
+1382,2025-07-29,100,Store,UPI
+1383,2025-11-20,83,Store,UPI
+1384,2025-06-18,13,Marketplace,Net Banking
+1385,2025-05-26,33,Marketplace,Card
+1386,2025-06-20,11,Marketplace,Card
+1387,2025-06-29,40,Marketplace,Net Banking
+1388,2025-03-08,77,Marketplace,UPI
+1389,2025-06-08,72,Store,Cash
+1390,2025-03-07,86,Marketplace,UPI
+1391,2025-11-27,86,Store,Cash
+1392,2025-01-10,47,Store,Card
+1393,2025-04-20,44,Store,Card
+1394,2025-04-26,18,Online,UPI
+1395,2025-06-01,13,Marketplace,UPI
+1396,2025-12-05,44,Marketplace,Card
+1397,2025-11-02,49,Online,Card
+1398,2025-04-03,89,Marketplace,Card
+1399,2025-08-13,6,Store,Cash
+1400,2025-12-13,93,Online,Net Banking
+1401,2025-11-09,37,Marketplace,Net Banking
+1402,2025-04-30,69,Online,Cash
+1403,2025-08-29,25,Store,Net Banking
+1404,2025-08-25,99,Store,Net Banking
+1405,2025-09-15,68,Store,Card
+1406,2025-04-13,78,Online,Cash
+1407,2025-01-27,83,Store,Cash
+1408,2025-10-11,14,Marketplace,UPI
+1409,2025-05-26,11,Online,Cash
+1410,2025-08-19,66,Online,Net Banking
+1411,2025-02-16,29,Store,Cash
+1412,2025-01-14,54,Online,Net Banking
+1413,2025-09-15,48,Online,Net Banking
+1414,2025-02-11,48,Online,UPI
+1415,2025-06-13,13,Marketplace,Cash
+1416,2025-03-16,18,Online,Cash
+1417,2025-08-30,90,Online,Net Banking
+1418,2025-08-18,79,Online,UPI
+1419,2025-01-10,33,Online,Card
+1420,2025-10-08,94,Marketplace,Net Banking
+1421,2025-02-26,100,Store,Card
+1422,2025-06-04,16,Online,Card
+1423,2025-08-03,82,Marketplace,Net Banking
+1424,2025-02-02,15,Store,UPI
+1425,2025-11-20,66,Marketplace,Card
+1426,2025-03-15,38,Store,UPI
+1427,2025-11-11,46,Online,Net Banking
+1428,2025-04-06,86,Marketplace,UPI
+1429,2025-09-26,47,Online,UPI
+1430,2025-07-19,61,Online,Net Banking
+1431,2025-07-11,33,Marketplace,UPI
+1432,2025-07-02,9,Store,Card
+1433,2025-12-03,81,Online,Cash
+1434,2025-03-10,6,Store,Cash
+1435,2025-11-26,23,Marketplace,Net Banking
+1436,2025-12-23,62,Marketplace,Card
+1437,2025-03-11,9,Marketplace,Net Banking
+1438,2025-01-19,38,Online,UPI
+1439,2025-04-13,6,Store,Cash
+1440,2025-09-21,51,Marketplace,Net Banking
+1441,2025-05-10,5,Marketplace,Card
+1442,2025-05-27,46,Online,Cash
+1443,2025-05-20,16,Store,Net Banking
+1444,2025-07-24,96,Store,Net Banking
+1445,2025-06-23,24,Store,Net Banking
+1446,2025-07-08,67,Store,UPI
+1447,2025-08-06,11,Store,Card
+1448,2025-10-07,38,Store,UPI
+1449,2025-02-10,42,Marketplace,Cash
+1450,2025-06-06,58,Marketplace,Net Banking
+1451,2025-03-27,89,Store,Cash
+1452,2025-08-17,6,Marketplace,Cash
+1453,2025-11-11,56,Store,UPI
+1454,2025-02-08,86,Marketplace,Net Banking
+1455,2025-07-06,66,Marketplace,Card
+1456,2025-01-16,19,Marketplace,Net Banking
+1457,2025-01-18,17,Online,Card
+1458,2025-11-27,47,Store,Net Banking
+1459,2025-10-18,5,Marketplace,Card
+1460,2025-12-14,58,Store,Cash
+1461,2025-08-16,98,Online,Card
+1462,2025-09-29,47,Store,Cash
+1463,2025-11-29,36,Online,UPI
+1464,2025-01-14,95,Online,Net Banking
+1465,2025-09-23,50,Marketplace,UPI
+1466,2025-05-15,100,Store,Net Banking
+1467,2025-04-20,79,Store,Net Banking
+1468,2025-04-13,16,Online,UPI
+1469,2025-08-20,23,Marketplace,Net Banking
+1470,2025-02-14,88,Store,Cash
+1471,2025-12-30,9,Marketplace,Cash
+1472,2025-06-03,21,Marketplace,Card
+1473,2025-07-05,66,Online,UPI
+1474,2025-04-13,18,Online,Net Banking
+1475,2025-01-14,47,Marketplace,Cash
+1476,2025-08-28,71,Online,UPI
+1477,2025-02-03,40,Store,Net Banking
+1478,2025-09-27,53,Store,UPI
+1479,2025-03-06,41,Marketplace,UPI
+1480,2025-08-19,60,Marketplace,Cash
+1481,2025-03-07,100,Marketplace,Card
+1482,2025-03-08,56,Marketplace,UPI
+1483,2025-03-05,67,Online,Cash
+1484,2025-03-26,21,Store,Card
+1485,2025-06-27,67,Store,UPI
+1486,2025-05-09,26,Marketplace,Cash
+1487,2025-03-06,81,Store,UPI
+1488,2025-09-15,83,Online,Card
+1489,2025-03-29,85,Marketplace,Cash
+1490,2025-10-16,6,Online,UPI
+1491,2025-01-24,83,Marketplace,Cash
+1492,2025-11-30,27,Marketplace,Net Banking
+1493,2025-11-13,82,Online,Net Banking
+1494,2025-11-18,70,Store,Cash
+1495,2025-09-05,32,Marketplace,Net Banking
+1496,2025-06-02,59,Online,UPI
+1497,2025-03-22,57,Store,Net Banking
+1498,2025-08-26,27,Store,Card
+1499,2025-06-10,92,Store,Cash
+1500,2025-07-24,17,Store,UPI
